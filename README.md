@@ -4,7 +4,7 @@ Justdecompile Plugins
 About
 ---------------------
 
-This repository contains the source code of the open source plugins for the [Telerik Justdecompile](www.telerik.com/products/decompiler.aspx) 
+This repository contains the source code of the open source plugins for the [Telerik JustDecompile](http://www.telerik.com/products/decompiler.aspx) 
 product.
 
 How to Contribute
